@@ -16,4 +16,8 @@ print("thsese ae the changes")
 
 # COMMAND ----------
 
+#22:25 Bejbik :)
+
+# COMMAND ----------
+
 
