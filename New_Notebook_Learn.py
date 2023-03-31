@@ -7,4 +7,9 @@ print("1 lesson from Data Bricks Aacademy")
 
 # COMMAND ----------
 
+#changes to perform
+print("thsese ae the changes")
+
+# COMMAND ----------
+
 
